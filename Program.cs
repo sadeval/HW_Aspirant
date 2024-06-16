@@ -208,7 +208,7 @@ namespace StudentManagement
         // Методы для аспиранта
         public void DoIntership()
         {
-            Console.WriteLine($"Аспирант {name} выполняет стажировку.");
+            Console.WriteLine($"Аспирант {name} стажируется.");
         }
 
         public void DefendThesis()
